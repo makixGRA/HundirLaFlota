@@ -4,13 +4,13 @@
 
 Programa diseñado durante el bootcamp de Data Science de The Bridge.
 
-Autores del proyecto: Miguel Anguita y Olivier
+Autores del proyecto: Miguel Anguita y Olivier Kirstetter.
 
 Hemos desarrollado el clásico juego de Hundir La Flota. 
 
 Hay dos jugadores: tú y la maquina. Manejaremos un tablero de 10 x 10 posiciones donde irán los barcos.
 
-Colocamos los siguientes barcos:
+Colocamos los siguientges barcos:
 
 - 4 barcos de 1 posición de eslora
 - 3 barcos de 2 posiciones de eslora
