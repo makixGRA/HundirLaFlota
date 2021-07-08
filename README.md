@@ -4,7 +4,7 @@
 
 Programa diseñado durante el bootcamp de Data Science de The Bridge.
 
-Autores del proyecto: Miguel Anguita y Olivier
+Autores del proyecto: Miguel Anguita y Olivier Kirstetter.
 
 Hemos desarrollado el clásico juego de Hundir La Flota. 
 
