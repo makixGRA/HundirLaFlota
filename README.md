@@ -1,5 +1,9 @@
 # HundirLaFlota
 
+## Instrucciones y reglas de juego
+
+Programa diseñado durante el bootcamp de Data Science de The Bridge.
+
 Autores del proyecto: Miguel Anguita y Olivier
 
 Hemos desarrollado el clásico juego de Hundir La Flota. 
@@ -20,3 +24,11 @@ En cada turno disparas a una coordenada (X, Y) del tablero adversario. Si aciert
 En los turnos de la máquina, si acierta, también le vuelve a tocar. ¿Dónde dispara la maquina? A un punto aleatorio en tu tablero.
 
 Si se hunden todos los barcos de un jugador, el juego acaba y gana el otro.
+
+## Código
+
+Se ha creado una clase Tablero en la que, inicialmente, se construye un tablero vacío de 10 x 10. Posteriormente, se ha creado un método
+que inicialice el tablero con todos los barcos colocados de forma aleatoria. También se han creado métodos más sencillos, como el que te introduce un barco en una 
+posición concreta u otro que te indica si es posible colocar un barco en la posición deseada.
+
+Se podrá salir del juego en cualquier momento introduciendo una letra cualquiera como coordenada.
