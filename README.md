@@ -10,7 +10,7 @@ Hemos desarrollado el clásico juego de Hundir La Flota.
 
 Hay dos jugadores: tú y la maquina. Manejaremos un tablero de 10 x 10 posiciones donde irán los barcos.
 
-Colocamos los siguientges barcos:
+Colocamos los siguientes barcos:
 
 - 4 barcos de 1 posición de eslora
 - 3 barcos de 2 posiciones de eslora
